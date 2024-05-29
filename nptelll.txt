@@ -1,0 +1,35 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/launch.json
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/.vscode/launch.json
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/NPTEL23CE66S738100507.html
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/NPTEL23CE66S738100507.pdf
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/NPTEL23CE66S738100507.png
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/Facebook.svg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/Instagram.svg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/LinkedIn.svg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/Twitter.png
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/Youtube.svg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/footer/by-nc-sa.svg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/header/downArrowBlackFill.png
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/assets/shared/logo-m.jpg
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/index.html
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/main.dd0e0558afb78f49.js
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/polyfills.08ccefc07e773eba.js
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/runtime.b0ed2a3be8e17b46.js
+#	new file:   in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/styles.0fb9507677b5faf5.css
+#
+# Changes not staged for commit:
+#	deleted:    in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/.vscode/launch.json
+#	deleted:    in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/NPTEL23CE66S738100507.html
+#
+# Untracked files:
+#	in-noc-Ecertificate-q-NPTEL23CE66S7381005-main/index.htmlNPTEL23CE66S738100507.html
+#
